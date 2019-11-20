@@ -1,0 +1,16 @@
+git.exe checkout -b feature/srxfx810 remotes/origin/feature/srxfx810 --
+
+Branch 'feature/srxfx810' set up to track remote branch 'feature/srxfx810' from 'origin'.
+Switched to a new branch 'feature/srxfx810'
+
+Success (2718 ms @ 2019/11/14 14:12:39)
+
+
+git.exe push --progress "origin" feature/srxfx810:feature/srxfx810
+
+
+dd
+
+ddddd
+
+git remote add origin https://github.com/yinhangooo/fristGit.git
