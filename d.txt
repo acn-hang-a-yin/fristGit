@@ -22,4 +22,8 @@ aaa
 >>>>>>> master
 
 
+<<<<<<< HEAD
 ggggg
+=======
+xxx
+>>>>>>> backFirstGit
