@@ -28,4 +28,23 @@ ggggg
 xxx
 >>>>>>> backFirstGit
 
+<<<<<<< HEAD
 ddddddddddddddddddddddddd
+=======
+
+
+fffff
+
+<<<<<<< HEAD
+aaa
+=======
+ggg
+>>>>>>> backFirstGit
+
+<<<<<<< HEAD
+uuu
+=======
+xx
+>>>>>>> backFirstGit
+fffff
+>>>>>>> backFirstGit
