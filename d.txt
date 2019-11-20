@@ -32,4 +32,8 @@ xxx
 
 fffff
 
+<<<<<<< HEAD
 aaa
+=======
+ggg
+>>>>>>> backFirstGit
