@@ -48,4 +48,8 @@ xx
 >>>>>>> backFirstGit
 fffff
 >>>>>>> backFirstGit
+<<<<<<< HEAD
 eeeeeeeeeeeee
+=======
+iiiiiiii
+>>>>>>> backFirstGit
