@@ -38,4 +38,8 @@ aaa
 ggg
 >>>>>>> backFirstGit
 
+<<<<<<< HEAD
 uuu
+=======
+xx
+>>>>>>> backFirstGit
