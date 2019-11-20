@@ -15,4 +15,8 @@ ddddd
 
 git remote add origin https://github.com/yinhangooo/fristGit.git
 
+<<<<<<< HEAD
 ccccc
+=======
+aaa
+>>>>>>> master
